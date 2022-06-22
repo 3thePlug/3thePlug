@@ -2,8 +2,7 @@
 
 **Multiplatform Application Development Student at Virgen De Gracia College** 💻 
 
-<a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
-   borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+<img src="./documentos/img.jpeg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
 </p>
 
 Interested in software development from back to front end, and currently studing a higher degree at Multiplatform Application Development. Also interested in Software Engineering.
@@ -28,3 +27,10 @@ Interested in software development from back to front end, and currently studing
 ![Git](https://img.shields.io/badge/Git-a85c32?style=for-the-badge&logo=git&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-00d111?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/SpringBoot-00d111?style=for-the-badge&logo=SpringBoot&logoColor=white)
+
+## 📈 Status
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jgallegs&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jgallegs&hide_border=true&theme=radical" />
+</p>
