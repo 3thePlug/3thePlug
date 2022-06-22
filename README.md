@@ -26,6 +26,5 @@ Interested in software development from back to front end, and currently studing
 ### 📘 Getting started...
 
 ![Git]([https://img.shields.io/badge/Git-a85c32?style=for-the-badge&logo=git&logoColor=white)
-![SpringBoot]([https://img.shields.io/badge/SpringBoot-2CA5E0?style=for-the-badge&logo=SpringBoot&logoColor=white](https://img.shields.io/badge/SpringBoot-00d111?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Bootstrap]([[https://img.shields.io/badge/SpringBoot-2CA5E0?style=for-the-badge&logo=SpringBoot&logoColor=white](https://img.shields.io/badge/SpringBoot-00d111?style=for-the-badge&logo=SpringBoot&logoColor=white](https://img.shields.io/badge/Bootstrap-9d00db?style=for-the-badge&logo=Bootstrap&logoColor=white))
-
+![SpringBoot](https://img.shields.io/badge/SpringBoot-00d111?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Bootstrap]([(https://img.shields.io/badge/SpringBoot-00d111?style=for-the-badge&logo=SpringBoot&logoColor=white)
