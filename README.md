@@ -1,4 +1,4 @@
-# <img src="./images/sticker.png" width=10% align=right /> Hi! My name is Jorge
+# <img src="./documentos/img.jpeg" width=10% align=right /> Hi! My name is Jorge
 
 **Multiplatform Application Development Student at Virgen De Gracia College** 💻 
 
