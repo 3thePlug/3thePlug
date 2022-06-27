@@ -1,4 +1,4 @@
-# <img src="./documentos/octo.jpeg" width=10% align=right /> Hi! My name is Jorge
+# <img src="./documentos/octocat.png" width=15% align=right /> Hi! My name is Jorge
 
 **Multiplatform Application Development Student at Virgen De Gracia College** 💻 
 
