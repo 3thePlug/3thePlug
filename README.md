@@ -2,7 +2,7 @@
 
 **Multiplatform Application Development Student at Virgen De Gracia College** 💻 
 
-<img src="./documentos/banner.jpeg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+<img src="./documentos/github-header-image.png" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
 </p>
 
 Interested in software development from back to front end, and currently studing a higher degree at Multiplatform Application Development. Also interested in Software Engineering.
